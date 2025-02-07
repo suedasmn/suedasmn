@@ -28,6 +28,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suedasmn&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
----
-
 ## 💻 Check Out My Repos ⬇️

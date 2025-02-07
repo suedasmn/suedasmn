@@ -1,5 +1,8 @@
 # 💫 About Me:
-<h3 >  I am passionate about becoming a Front-end Developer specializing in game and mobile application development. I place great importance on teamwork and meticulously carry out my work. Focusing on effective contribution to projects with strong communication skills and technical abilities, I am open to innovations and eager to learn, continuously striving to improve myself. I am here to expand my professional network and explore new opportunities.</h3>
+<h4 >  I am passionate about becoming a Front-end Developer specializing in game and mobile application development. I place great importance on teamwork and meticulously carry out my work. Focusing on effective contribution to projects with strong communication skills and technical abilities, I am open to innovations and eager to learn, continuously striving to improve myself. I am here to expand my professional network and explore new opportunities.</h4>
+
+<h5> Front End Developer | Angular & TypeScript | Passionate About User Experience & Responsive Design | Game Developer & Cybersecurity
+</h5>
 
 - 🌱 I’m currently learning **Angular**
 
